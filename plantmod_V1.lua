@@ -1,0 +1,2 @@
+--- Powdertoy Lua Plant mod ---
+--- Version 1.0 ---
